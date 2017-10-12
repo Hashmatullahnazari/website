@@ -145,10 +145,11 @@ body {
 
 #photos h2 {
     position: absolute;
-    top: 0%;
-    left: 10%;
-    -webkit-transform: translate(-50% -50%);
-    transform: translate(-50% -50%);
+    top: 40%;
+    left: 50%;
+    
+    -webkit-transform: translate(-50%, -50%);    
+    transform: translate(-50%, -50%);
     border-top: 0.15em solid black;
     border-bottom: 0.15em solid black;
     color: red;
