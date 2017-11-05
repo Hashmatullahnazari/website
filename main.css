@@ -13,7 +13,7 @@ body {
 /*Header*/
 
 #header {
-    height: 80%;
+    height: 100%;
 }
 
 
@@ -176,6 +176,8 @@ body {
 
 #form h1 {
     color: red;
+    font-size: 30px;
+
 }
 
 .form {
